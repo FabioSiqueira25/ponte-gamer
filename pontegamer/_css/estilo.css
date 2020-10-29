@@ -5,7 +5,7 @@
     src: url("../_fontes/PermanentMarker-Regular.ttf");
 }
 body{
-    background-color: rgba(158,20, 10, .8);
+    background-color: rgba(146, 22, 13, 0.8);
 }
 p{
     font-family: 'Titillium Web', sans-serif;
